@@ -37,3 +37,11 @@ Swaps with an ally in a dice battle.
 **Card Murderer** (Think of the cards!)
 
 Forces an enemy to dump one of their cards into the 'Used' deck.
+
+**Antidote to Everything**
+
+Clears any single effect.
+
+**Duel Maniac** (Because swag)
+
+Starts a battle with any enemy player.
