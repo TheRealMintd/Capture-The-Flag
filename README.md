@@ -20,7 +20,3 @@ Chung Shao Long
 Wong Quan Shuen
 
 Michael Chong
-
----------------
-
-The board game.
