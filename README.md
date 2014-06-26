@@ -1,4 +1,4 @@
-[b][u]Capture The Flag (CTF) Official Rulebook [/b][/u]
+<b><u>Capture The Flag (CTF) Official Rulebook </b></u>
 
 Created by -
 
