@@ -24,7 +24,7 @@ Kills anything (including yourself) in a 5 * 5 area.
 
 **Protector Shield**
 
-Players that land in your spot, are bounced off to an adjacent tile.
+Players that land in your spot, are bounced off to an adjacent tile. Effect lasts for three turns.
 
 **Blink**
 
