@@ -1,5 +1,8 @@
 <b>Capture The Flag: The Volcano of Swag </b>
 ===========================
+
+The most swagged out game in the history of swag.
+
 Created by
 ----------
 
