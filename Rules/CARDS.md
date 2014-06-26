@@ -6,7 +6,7 @@ CTF: TVOS has cards that can affect gameplay by giving advantages to your team, 
 
 Gives you a second chance to roll the dice in a dice battle.
 
-**Rocky Blockage**
+**Rejected**
 
 Creates a 3 * 3 blockage on any tile on the board.
 
@@ -14,7 +14,7 @@ Creates a 3 * 3 blockage on any tile on the board.
 
 Allows you to roll your dice a second time.
 
-**Coma Giver**
+**Knock-Out Dance**
 
 Causes your enemy to lose a turn.
 
