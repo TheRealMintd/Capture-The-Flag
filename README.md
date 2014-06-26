@@ -1,4 +1,4 @@
-Capture - The - Flag Official Rulebook
+Capture The Flag (CTF) Official Rulebook
 
 Created by -
 Brayden Ng Zheng Lin (Leader)
