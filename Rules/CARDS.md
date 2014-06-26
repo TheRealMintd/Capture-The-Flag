@@ -32,4 +32,4 @@ Teleports to a chosen ally.
 
 **Swap**
 
-Swaps with an ally in a battle.
+Swaps with an ally in a dice battle.
