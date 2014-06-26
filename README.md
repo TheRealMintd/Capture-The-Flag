@@ -1,4 +1,4 @@
-<b>Capture The Flag (CTF) Official Drawing Board </b>
+<b>Capture The Flag: The Volcano of Swag </b>
 ===========================
 Created by
 ----------
