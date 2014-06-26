@@ -1,4 +1,4 @@
-<b>Capture The Flag (CTF) Official Rulebook </b>
+<b>Capture The Flag (CTF) Official Drawing Board </b>
 ===========================
 Created by
 ----------
