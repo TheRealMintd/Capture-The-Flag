@@ -1,6 +1,7 @@
-<b><u>Capture The Flag (CTF) Official Rulebook </b></u>
-
-Created by -
+<b>Capture The Flag (CTF) Official Rulebook </b>
+===========================
+Created by
+----------
 
 Brayden Ng Zheng Lin (Leader)
 
@@ -20,6 +21,6 @@ Wong Quan Shuen
 
 Michael Chong
 
-================
+---------------
 
 The board game.
