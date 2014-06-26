@@ -9,3 +9,15 @@ Gives you a second chance to roll the dice in a dice battle.
 **Rocky Blockage**
 
 Creates a 3 * 3 blockage on any tile on the board.
+
+**Double Dice**
+
+Allows you to roll your dice a second time.
+
+**Coma Giver**
+
+Causes your enemy to lose a turn.
+
+**Worthy Sacrifice** (For the greater good)
+
+Kills anything (including yourself) in a 5 * 5 area.
