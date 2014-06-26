@@ -21,3 +21,7 @@ Causes your enemy to lose a turn.
 **Worthy Sacrifice** (For the greater good)
 
 Kills anything (including yourself) in a 5 * 5 area.
+
+**Protector Shield**
+
+Players that land in your spot, are bounced off to an adjacent tile.
