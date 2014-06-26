@@ -10,7 +10,7 @@ Gives you a second chance to roll the dice in a dice battle.
 
 Creates a 3 * 3 blockage on any tile on the board.
 
-**Double Dice**
+**Double Time**
 
 Allows you to roll your dice a second time.
 
