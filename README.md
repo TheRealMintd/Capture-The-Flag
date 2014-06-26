@@ -1,4 +1,4 @@
-Capture-The-Flag Official Rulebook
+Capture - The - Flag Official Rulebook
 
 Created by -
 Brayden Ng Zheng Lin (Leader)
