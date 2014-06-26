@@ -24,12 +24,15 @@ Kills anything (including yourself) in a 5 * 5 area.
 
 **Protector Shield**
 
-Players that land in your spot, are bounced off to an adjacent tile. Effect lasts for three turns.
+Players that land in your spot, are bounced off to an adjacent tile, effective for 3 turns.
 
 **Blink**
 
 Teleports to a chosen ally.
+<<<<<<< HEAD
 
 **Swap**
 
 Swaps with an ally in a dice battle.
+=======
+>>>>>>> FETCH_HEAD
