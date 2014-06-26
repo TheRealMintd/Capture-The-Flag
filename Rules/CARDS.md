@@ -29,3 +29,7 @@ Players that land in your spot, are bounced off to an adjacent tile.
 **Blink**
 
 Teleports to a chosen ally.
+
+**Swap**
+
+Swaps with an ally in a battle.
