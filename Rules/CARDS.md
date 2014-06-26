@@ -34,6 +34,6 @@ Teleports to a chosen ally.
 
 Swaps with an ally in a dice battle.
 
-**Card Murderer**
+**Card Murderer** (Think of the cards!)
 
 Forces an enemy to dump one of their cards into the 'Used' deck.
