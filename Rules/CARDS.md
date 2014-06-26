@@ -6,7 +6,7 @@ CTF: TVOS has cards that can affect gameplay by giving advantages to your team, 
 
 Gives you a second chance to roll the dice in a dice battle.
 
-**Rejected** (Nobody likes you)
+**The Card That Can't Be Moved** (It's pretty much stuck)
 
 Creates a 3 * 3 blockage on any tile on the board.
 
@@ -22,7 +22,7 @@ Causes your enemy to lose a turn.
 
 Kills anything (including yourself) in a 5 * 5 area.
 
-**Protector Shield** (Nothing better than this)
+**Rejected** (Nobody likes you)
 
 Players that land in your spot are bounced off to an adjacent tile. Effect lasts for three turns.
 
@@ -38,7 +38,7 @@ Swaps with an ally in a dice battle.
 
 Forces an enemy to dump one of their cards into the 'Used' deck.
 
-**Antidote to Everything** (I'm good doctor)
+**Antidote to Everything** (You think you got away with that?)
 
 Clears any single effect.
 
