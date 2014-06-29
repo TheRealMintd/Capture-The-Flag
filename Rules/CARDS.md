@@ -3,6 +3,8 @@ Cards
 
 There will be 30 cards in the deck in each game of _TVOS_.<br>
 
+Strategy
+--------
 **Divine Intervention** (Your faith has been rewarded)<br>
 Gives you a second chance to roll the dice in a dice battle.
 
@@ -35,3 +37,6 @@ Clears any single effect.
 
 **Duel Maniac** (Because swag)<br>
 Starts a battle with any enemy player.
+
+Susprise
+--------
