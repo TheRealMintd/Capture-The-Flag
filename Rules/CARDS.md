@@ -30,7 +30,7 @@ Swaps with an ally in a dice battle.
 **Card Murderer** (Think of the cards!)<br>
 Forces an enemy to dump one of their cards into the 'Used' deck.
 
-**Totally Will Not Help You When You Are Dying** (You think you got away with that?)<br>
+**Totally Will Help You When You Are Dying** (You think you got away with that?)<br>
 Clears any single effect.
 
 **Duel Maniac** (Because swag)<br>
