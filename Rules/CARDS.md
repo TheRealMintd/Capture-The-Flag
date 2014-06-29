@@ -2,8 +2,6 @@ Cards
 =====
 CTF: TVOS has cards that can affect gameplay by giving advantages to your team, or by giving disadvantages to the enemy team.
 
-Cards are earned every three turns. They are deposited into your team's deck.
-
 There are two types of cards: Suprise and Strategic<br>
 Suprise cards take effect immediately after drawing them from the deck.<br>
 Strategic cards take effect when you play them. They can be played on your team's turn.
