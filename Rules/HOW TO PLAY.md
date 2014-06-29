@@ -22,5 +22,6 @@ Movement can only happen on your turn. To move, roll a die and choose a directio
 
 **Combat**<br>
 To start a battle, you will need to land on the same space as your opponent. This will start a dice battle between the two. One player from each team takes a die and roll it. The team which rolls the higher number with the die wins the dice battle. The outcome of the dice battle can be altered by playing cards. Refer to [CARDS.md](https://github.com/petster101/Capture-The-Flag/blob/master/Rules/CARDS.md)
+
 **Winning**<br>
 To win a game of CTF: TVOS one of the teams has to capture the enemy's flag and bring it to thier base.
