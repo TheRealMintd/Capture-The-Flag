@@ -1,5 +1,8 @@
 Cards
 =====
+
+There will be 30 cards in the deck in each game of _TVOS_.<br>
+
 **Divine Intervention** (Your faith has been rewarded)<br>
 Gives you a second chance to roll the dice in a dice battle.
 
