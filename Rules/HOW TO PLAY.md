@@ -13,7 +13,9 @@ Turns are taken in alternating order. e.g. Red Team Player 1, Blue Team Player 1
 
 Every 3 turns, both teams get to draw one card from the card pile and deposit it into their team's card pile.
 
-Cards can only be played on the team's turn.
+There are two types of cards: Suprise and Strategic<br>
+Suprise cards take effect immediately after drawing them from the deck.<br>
+Strategic cards take effect when you play them. They can be played on your team's turn.
 
 Refer to [CARDS.md](https://github.com/petster101/Capture-The-Flag/blob/master/Rules/CARDS.md) for a list of cards.
 
