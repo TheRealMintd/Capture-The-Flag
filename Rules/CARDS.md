@@ -38,5 +38,5 @@ Starts a battle with any enemy player.
 
 Surprise
 ========
-**Hangover**<br>
+**Hangover** (Too much beer)<br>
 Lose a turn.
