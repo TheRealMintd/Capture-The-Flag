@@ -38,3 +38,5 @@ Starts a battle with any enemy player.
 
 Surprise
 ========
+**Hangover**<br>
+Lose a turn.
