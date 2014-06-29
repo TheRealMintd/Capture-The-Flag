@@ -6,20 +6,12 @@ The most swagged out game in the history of swag.
 Created by
 ----------
 
-Brayden Ng Zheng Lin (Leader)
-
-Wong Yi Xiong (Assistant Leader)
-
-Koh Wee Lee
-
-Khoo Lian Keat
-
-Brandon So Man Hong
-
-Dinesh Manoharan
-
-Chung Shao Long
-
-Wong Quan Shuen
-
-Michael Chong
+Brayden Ng Zheng Lin (Leader)<br>
+Wong Yi Xiong (Assistant Leader)<br>
+Koh Wee Lee<br>
+Khoo Lian Keat<br>
+Brandon So Man Hong<br>
+Dinesh Manoharan<br>
+Chung Shao Long<br>
+Wong Quan Shuen<br>
+Michael Chong<br>
