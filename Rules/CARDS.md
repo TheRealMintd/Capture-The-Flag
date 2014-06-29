@@ -34,7 +34,11 @@ Forces an enemy to dump one of their cards into the 'Used' deck.
 Clears any single effect.
 
 **Duel Maniac** (Because swag)<br>
+<<<<<<< HEAD
+Starts a battle with any enemy player.
+=======
 Starts a battle with any enemy player.
 
 **The Black Hole** (Inspiration Everywhere)<br>
-It sucks you back to spawn.
+It sucks you back 5 steps in the direction of spawn.
+>>>>>>> FETCH_HEAD
