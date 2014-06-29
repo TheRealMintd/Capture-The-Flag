@@ -41,4 +41,7 @@ Starts a battle with any enemy player.
 
 **The Black Hole** (Inspiration Everywhere)<br>
 It sucks you back 5 steps in the direction of spawn.
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
