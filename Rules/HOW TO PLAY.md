@@ -20,3 +20,5 @@ Strategic cards take effect when you play them. They can be played on your team'
 Refer to [CARDS.md](https://github.com/petster101/Capture-The-Flag/blob/master/Rules/CARDS.md) for a list of cards.
 
 **Movement**
+
+Movement can only happen on your turn. To move, roll a die and choose a direction to move in. You can move diagonally, horizontally, and vertically. You can move forward as well as backward.
