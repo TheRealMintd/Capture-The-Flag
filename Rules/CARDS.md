@@ -40,3 +40,6 @@ Surprise
 ========
 **Hangover** (Too much beer)<br>
 Lose a turn.
+
+**Mistaken Friend** (Holy s**t)
+Teleport to a random enemy
