@@ -36,7 +36,8 @@ Clears any single effect.
 **Duel Maniac** (Because swag)<br>
 Starts a battle with any enemy player.
 
+**Going Downtown** (Uptown isn't good enough)<br>
+Lucky you, head 5 steps towards the flag.
+
 Surprise
 ========
-**Hangover**<br>
-Lose a turn.
