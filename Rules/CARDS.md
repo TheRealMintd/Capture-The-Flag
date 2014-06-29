@@ -42,4 +42,4 @@ Surprise
 Lose a turn.
 
 **Mistaken Friend** (Holy s**t)
-Teleport to a random enemy
+Teleport to a random enemy.
