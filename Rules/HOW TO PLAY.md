@@ -6,6 +6,7 @@ Gamemodes available are:
 
 **Basics**<br>
 Each team starts off with 5 pieces and a die.<br>
+Optional: Teams start up with 20 pieces each.<br>
 Turns are taken in alternating order. e.g. Red Team Player 1, Blue Team Player 1, Red Team Player 2, Blue Team Player 2 and so on.
 
 **Cards**<br>
