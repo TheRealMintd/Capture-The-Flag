@@ -7,3 +7,6 @@ Green Paint<br>
 Brown Paint<br>
 Dice (x2)<br>
 Paper Clay<br>
+Sponge<br>
+Cotton<br>
+Twigs<br>
