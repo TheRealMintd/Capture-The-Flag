@@ -27,9 +27,6 @@ Teleports to a chosen ally.
 **Swap** (Who needs to fight thier own battles?) 2 cards<br>
 Swaps with an ally in a dice battle.
 
-**Card Murderer** (Think of the cards!) 4 cards<br>
-Forces an enemy to dump one of their cards into the 'Used' deck.
-
 **Totally Will Help You When You Are Dying** (You think you got away with that?) 2 cards<br>
 Clears any single effect.
 
@@ -44,4 +41,5 @@ Lose a turn.
 **Mistaken Friend** (Holy s**t) 5 cards<br>
 Teleport next to the enemy number on the card.
 
-**
+**Card Murderer** (Think of the cards!) 4 cards<br>
+Forces an enemy to dump one of their cards into the 'Used' deck.
