@@ -19,7 +19,7 @@ Causes your enemy to lose a turn.
 Kills anything (including yourself) in a 5 * 5 area.
 
 **Rejected** (Nobody likes you) 5 cards<br>
-Players that land in your spot are bounced off to an adjacent tile. Effect lasts for three turns.
+Players that land in your spot are bounced off to an adjacent tile.
 
 **Blink** (Speedhacker) 3 cards<br>
 Teleports to a chosen ally.
