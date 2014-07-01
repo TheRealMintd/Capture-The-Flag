@@ -41,5 +41,7 @@ Surprise
 **Hangover** (Too much beer) 3 cards<br>
 Lose a turn.
 
-**Mistaken Friend** (Holy s**t) 7 cards<br>
-Teleport to a random enemy.
+**Mistaken Friend** (Holy s**t) 5 cards<br>
+Teleport next to the enemy number " "
+
+**
