@@ -42,6 +42,6 @@ Surprise
 Lose a turn.
 
 **Mistaken Friend** (Holy s**t) 5 cards<br>
-Teleport next to the enemy number " "
+Teleport next to the enemy number on the card.
 
 **
