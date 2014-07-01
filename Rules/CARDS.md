@@ -36,9 +36,6 @@ Clears any single effect.
 **Duel Maniac** (Because swag) 5 cards<br>
 Starts a battle with any enemy player.
 
-**The Card That Can Move The Card That Can't Be Moved** (Dat Contradiction ...) 1 card<br>
-It does what it says.
-
 Surprise
 ========
 **Hangover** (Too much beer) 3 cards<br>
