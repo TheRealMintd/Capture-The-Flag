@@ -6,17 +6,17 @@ The most swagged out game in the history of swag.
 Created by
 ----------
 
-**Leaders**
+**Leaders**<br>
 Brayden Ng Zheng Lin (Leader)<br>
 Wong Yi Xiong (Assistant Leader)
 
-**Illustration Team**
+**Illustration Team**<br>
 Chung Shao Long (Head Illustrator)<br>
 Koh Wee Lee (Illustrator)<br>
 Khoo Lian Keat (Illustrator)<br>
 Brandon So Man Hong (Illustrator)
 
-**Modelling Team**
+**Modelling Team**<br>
 Dinesh Manoharan (Head Modeler)<br>
 Wong Quan Shuen (Modeler)<br>
 Michael Chong (Modeler)<br>
