@@ -43,6 +43,3 @@ Teleport next to the enemy number on the card.
 
 **Card Murderer** (Think of the cards!) 4 cards<br>
 Forces an enemy to dump one of their cards into the 'Used' deck.
-
-**Hell Ring** (Can't get anymore original then that)<br>
-Knocks back any player, ally or enemy, in a 5 * 5 area back to their bases
