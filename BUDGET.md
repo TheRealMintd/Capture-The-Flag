@@ -8,5 +8,6 @@ Spray Paint (RM 10)<br>
 Tape (RM 1.20)<br>
 Scouring Pads (RM 3)<br>
 Tape (RM 2.50)<br>
-Duct Tape ()<br>
+Duct Tape (RM 3)<br>
 Styrofoam (RM 5)<br>
+Coloured Printing of Cards (RM100)<br>
