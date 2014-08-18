@@ -11,3 +11,5 @@ Tape (RM 2.50)<br>
 Duct Tape (RM 3)<br>
 Styrofoam (RM 5)<br>
 Coloured Printing of Cards (RM100)<br>
+Plasticine (RM10)<br>
+2 Green Spray Praint(RM12)<br>
