@@ -4,7 +4,7 @@ Basics
 ------
 Each team starts off with 5 pieces and a die. *Optional: Teams start up with 20 pieces each.*
 
-Turns are taken in alternating order. e.g. Red Team, Blue Team, Red Team and so on.
+Turns are taken in alternating order, e.g. Red Team, Blue Team, Red Team and so on.
 
 Cards
 -----
